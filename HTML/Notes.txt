@@ -1,3 +1,124 @@
 HTML
 
 HyperText Markup language
+
+Markup--- annotation/tags used to markup content
+
+Hyper text-- webpages is linked with each other.
+one webpage is linked with other page is known as Hypertext.
+
+
+
+Basic Building Block ---- Skleton
+CSS -formating / apperance.
+
+JS (JavaScript) - functionalities based
+
+
+
+render -- process/load/translate
+
+
+HTML+CSS+JS------- Full Stack Development.
+
+---------------Tags:----------
+
+
+Tags tells Browser that: How to render different element.
+
+<p> paragrgraph tag
+
+
+
+tag
+opening tag
+closing tag
+contenet
+element
+
+
+HTML is not case sensitive.
+
+
+Text element.
+
+Block elements
+Inline elements-- differentiate specific words 
+
+
+100+ html tags
+
+
+Empty tag
+Self closing tag
+<img/>
+<br/>
+<input/>
+
+
+tag 
+
+property/ attribute
+
+HTML element --- can have attributes
+
+provide additional info about type--------  Attributes.
+
+id --> all ellement
+class -> all element
+src --> img tag
+href ---> a  tag
+
+
+div is generic container
+
+style tag contains --- css part
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
