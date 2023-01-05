@@ -73,7 +73,25 @@ href ---> a  tag
 div is generic container
 
 style tag contains --- css part
+<hr> tag horizontal line
 
+
+Rap
+
+
+
+poem problem
+
+<pre> </pre> tag
+
+------
+style tag ----
+attributes
+color
+background-color
+text-align
+font-family
+font-size
 
 
 
