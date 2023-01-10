@@ -1,0 +1,8 @@
+HTML--- skeleton/description
+CSS--- apperance/styling/
+How content will appear?--CSS-- cascading style sheet.
+Visually appealing
+
+Selectors in CSS.
+
+element Selector/tag Selector/type Selector

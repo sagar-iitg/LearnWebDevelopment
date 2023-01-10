@@ -1,0 +1,23 @@
+.box{
+    height: 100px;
+    width: 200px;
+    border: 10px solid black;
+    padding: 30px;
+    margin: 10px;
+}
+
+
+   
+
+
+    
+#grn{
+    background-color: green;
+}
+#wht{
+    background-color: white;
+}
+#org{
+    background-color: orange;
+}
+
